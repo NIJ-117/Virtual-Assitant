@@ -1,0 +1,59 @@
+Features :-
+
+1 - Speak done
+
+2 - TakeCommand
+
+3 - Advancing Fetures :-
+
+ a - Google Search done
+
+ b - YouTube Search done
+
+ c - YouTube Play Search done
+
+4 - Advancing Features 2 :-
+
+ a - Speed Test
+
+ b - Alarm
+
+ c - Video Downloader
+
+5 - Advancing Features 3 :-
+
+ a - Temperature 
+
+ b - Wind Speed
+
+` c - Calculator
+
+Automations :-
+
+1 - Whatsapp
+
+2 - Chrome
+
+3 - YouTube 
+
+4 - Windows 
+
+5 - Home Automation
+
+6 -  Nasa Automations .
+
+Bots :- 
+
+1 - Twitter Bot 
+
+2 - Instagram Bot
+
+3 - Whatsapp Bot
+
+4 - ChatBot
+
+Bonus Videos :-
+
+1 - How To Run Jarvis Fast
+
+2 - How To Use Jarvis Through A Good Way 
